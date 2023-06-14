@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>KukiHealth</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Proxima Nova Alt Black It.otf</string>
+		<string>Proxima Nova Alt Black.otf</string>
+		<string>Proxima Nova Alt Bold It.otf</string>
+		<string>Proxima Nova Alt Bold.otf</string>
+		<string>Proxima Nova Alt Cond Black It.otf</string>
+		<string>Proxima Nova Alt Cond Black.otf</string>
+		<string>Proxima Nova Alt Cond Bold It.otf</string>
+		<string>Proxima Nova Alt Cond Bold.otf</string>
+		<string>Proxima Nova Alt Cond Light It.otf</string>
+		<string>Proxima Nova Alt Cond Light.otf</string>
+		<string>Proxima Nova Alt Cond Reg It.otf</string>
+		<string>Proxima Nova Alt Cond Reg.otf</string>
+		<string>Proxima Nova Alt Light It.otf</string>
+		<string>Proxima Nova Alt Light.otf</string>
+		<string>Proxima Nova Alt Reg It.otf</string>
+		<string>Proxima Nova Alt Reg.otf</string>
+		<string>Proxima Nova Black It.otf</string>
+		<string>Proxima Nova Black.otf</string>
+		<string>Proxima Nova Bold It.otf</string>
+		<string>Proxima Nova Bold Italic.otf</string>
+		<string>Proxima Nova Bold.otf</string>
+		<string>Proxima Nova Cond Black It.otf</string>
+		<string>Proxima Nova Cond Black.otf</string>
+		<string>Proxima Nova Cond Bold It.otf</string>
+		<string>Proxima Nova Cond Bold.otf</string>
+		<string>Proxima Nova Cond Light It.otf</string>
+		<string>Proxima Nova Cond Light.otf</string>
+		<string>Proxima Nova Cond Reg It.otf</string>
+		<string>Proxima Nova Cond Reg.otf</string>
+		<string>Proxima Nova Condensed Light Italic.otf</string>
+		<string>Proxima Nova Condensed Light.otf</string>
+		<string>Proxima Nova Condensed Regular Italic.otf</string>
+		<string>Proxima Nova Condensed Regular.otf</string>
+		<string>Proxima Nova Condensed Semibold Italic.otf</string>
+		<string>Proxima Nova Condensed Semibold.otf</string>
+		<string>Proxima Nova Extrabold.otf</string>
+		<string>Proxima Nova Light It.otf</string>
+		<string>Proxima Nova Light Italic.otf</string>
+		<string>Proxima Nova Light.otf</string>
+		<string>Proxima Nova Reg It.otf</string>
+		<string>Proxima Nova Reg.otf</string>
+		<string>Proxima Nova Regular Italic.otf</string>
+		<string>Proxima Nova Regular.otf</string>
+		<string>Proxima Nova ScOsf Black It.otf</string>
+		<string>Proxima Nova ScOsf Black.otf</string>
+		<string>Proxima Nova ScOsf Bold It.otf</string>
+		<string>Proxima Nova ScOsf Bold.otf</string>
+		<string>Proxima Nova ScOsf Cond Black It.otf</string>
+		<string>Proxima Nova ScOsf Cond Black.otf</string>
+		<string>Proxima Nova ScOsf Cond Bold It.otf</string>
+		<string>Proxima Nova ScOsf Cond Bold.otf</string>
+		<string>Proxima Nova ScOsf Cond Light It.otf</string>
+		<string>Proxima Nova ScOsf Cond Light.otf</string>
+		<string>Proxima Nova ScOsf Cond Reg It.otf</string>
+		<string>Proxima Nova ScOsf Cond Reg.otf</string>
+		<string>Proxima Nova ScOsf Light It.otf</string>
+		<string>Proxima Nova ScOsf Light.otf</string>
+		<string>Proxima Nova ScOsf Reg It.otf</string>
+		<string>Proxima Nova ScOsf Reg.otf</string>
+		<string>Proxima Nova Semibold Italic.otf</string>
+		<string>Proxima Nova Semibold.otf</string>
+		<string>ProximaNova-ExtrabldIt.otf</string>
+		<string>ProximaNova-Thin.otf</string>
+		<string>ProximaNova-ThinIt.otf</string>
+		<string>ProximaNovaCond-Black.otf</string>
+		<string>ProximaNovaCond-BlackIt.otf</string>
+		<string>ProximaNovaCond-Bold.otf</string>
+		<string>ProximaNovaCond-BoldIt.otf</string>
+		<string>ProximaNovaCond-Extrabld.otf</string>
+		<string>ProximaNovaCond-ExtrabldIt.otf</string>
+		<string>ProximaNovaCond-Thin.otf</string>
+		<string>ProximaNovaCond-ThinIt.otf</string>
+		<string>ProximaNovaExCn-Black.otf</string>
+		<string>ProximaNovaExCn-BlackIt.otf</string>
+		<string>ProximaNovaExCn-Bold.otf</string>
+		<string>ProximaNovaExCn-BoldIt.otf</string>
+		<string>ProximaNovaExCn-Extrabld.otf</string>
+		<string>ProximaNovaExCn-ExtrabldIt.otf</string>
+		<string>ProximaNovaExCn-Light.otf</string>
+		<string>ProximaNovaExCn-LightIt.otf</string>
+		<string>ProximaNovaExCn-Regular.otf</string>
+		<string>ProximaNovaExCn-RegularIt.otf</string>
+		<string>ProximaNovaExCn-Semibold.otf</string>
+		<string>ProximaNovaExCn-SemiboldIt.otf</string>
+		<string>ProximaNovaExCn-Thin.otf</string>
+		<string>ProximaNovaExCn-ThinIt.otf</string>
+		<string>Poppins-Black.ttf</string>
+		<string>Poppins-BlackItalic.ttf</string>
+		<string>Poppins-Bold.ttf</string>
+		<string>Poppins-BoldItalic.ttf</string>
+		<string>Poppins-ExtraBold.ttf</string>
+		<string>Poppins-ExtraBoldItalic.ttf</string>
+		<string>Poppins-ExtraLight.ttf</string>
+		<string>Poppins-ExtraLightItalic.ttf</string>
+		<string>Poppins-Italic.ttf</string>
+		<string>Poppins-Light.ttf</string>
+		<string>Poppins-LightItalic.ttf</string>
+		<string>Poppins-Medium.ttf</string>
+		<string>Poppins-MediumItalic.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Poppins-SemiBold.ttf</string>
+		<string>Poppins-SemiBoldItalic.ttf</string>
+		<string>Poppins-Thin.ttf</string>
+		<string>Poppins-ThinItalic.ttf</string>
+		<string>Quicksand-Bold.ttf</string>
+		<string>Quicksand-Light.ttf</string>
+		<string>Quicksand-Medium.ttf</string>
+		<string>Quicksand-Regular.ttf</string>
+		<string>Quicksand-SemiBold.ttf</string>
+	</array>
+</dict>
+</plist>

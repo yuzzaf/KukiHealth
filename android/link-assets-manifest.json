@@ -1,0 +1,441 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Black It.otf",
+      "sha1": "dff55ba240c4bbcc70ba98e58ca4f18ba5a5b2da"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Black.otf",
+      "sha1": "8e343691e581c1dd491b44a4bed693bdbcf64d42"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Bold It.otf",
+      "sha1": "01add0768e13660bb127ae5f86f342c1e1dbf02f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Bold.otf",
+      "sha1": "b4786263ef2c5559a36728cdcdcf725821ed4e67"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Black It.otf",
+      "sha1": "f76903cb4b1d8c8f9af79fad368c1660fcca8de4"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Black.otf",
+      "sha1": "ef5d598ff56813077e9e740dacbba0be2938f83b"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Bold It.otf",
+      "sha1": "5a3bdb8604dd77524e2cdc44bcc4792df0a68572"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Bold.otf",
+      "sha1": "35ab1eb78f956b2e4a862c2c85a35bb0ed7a6cad"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Light It.otf",
+      "sha1": "01b24d6b5d471a15e65683f1ed53d3f8cf506bcc"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Light.otf",
+      "sha1": "161c00179cc01cb24dcbefe623030e40ddbb9640"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Reg It.otf",
+      "sha1": "71310e5d80b1cfa2b53dcf819df3f3b3ac841376"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Cond Reg.otf",
+      "sha1": "7709e72c29a338b31a8119201e387f3fb202220c"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Light It.otf",
+      "sha1": "4cd78945201bf796470c1c39e8c363d5224e827f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Light.otf",
+      "sha1": "4176e6644d4ab834852c83c28a8c19bdbd03c448"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Reg It.otf",
+      "sha1": "923ad2a44909d2adb2c9303d9aa1d5966aac2935"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Alt Reg.otf",
+      "sha1": "15cde59110fce2197d41fbefc6d5cf82e5dbfab6"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Black It.otf",
+      "sha1": "a361ca63e9c24709b4b1e016fddacac4fdafccde"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Black.otf",
+      "sha1": "6dd4393e233fa2d8fab92161db7a8741b32f5f61"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Bold It.otf",
+      "sha1": "ddfec287a88c167deb041daaeb8b67d765068e6c"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Bold Italic.otf",
+      "sha1": "6097eed424a388f4ace71d48cb2b91f060639202"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Bold.otf",
+      "sha1": "05d7aec668e28d44fadf9536aee06c2fbf234032"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Black It.otf",
+      "sha1": "7312625540727b5f29fb0a459ffbeb88c64b9b21"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Black.otf",
+      "sha1": "91ca4f6a6e2d7b6e0ab11dbf093059bd40a7d93f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Bold It.otf",
+      "sha1": "5c146ba5ec6b26cbe2402d271decdde1f68feead"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Bold.otf",
+      "sha1": "1063526407158ad213f2b8503051593b058e21c3"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Light It.otf",
+      "sha1": "1f58367ae0489b7a5afbf9e1f1ec248a78af305b"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Light.otf",
+      "sha1": "ad31f687b8cb140fe4700b20bfd5e249f08f28c8"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Reg It.otf",
+      "sha1": "ac63dbf39cacafcb74ed6c00061e9f4e98169fc7"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Cond Reg.otf",
+      "sha1": "09acdcb3f9f79f5c2e90572ce26658f4679e8ffe"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Condensed Light Italic.otf",
+      "sha1": "75e688686a98c97befd336e3bd682b4d513d981e"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Condensed Light.otf",
+      "sha1": "bc4aaafaf5f52459cd3b922d3b6659af72bcaa1d"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Condensed Regular Italic.otf",
+      "sha1": "497cb6fd6a1333f72f6e96907bfeb5e3c60db982"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Condensed Regular.otf",
+      "sha1": "b79ec5c32fbd9f015bced50e6cdf29cb8a1139d1"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Condensed Semibold Italic.otf",
+      "sha1": "147a3f513eddc892e4bd8047d3d2b6ccda927dfc"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Condensed Semibold.otf",
+      "sha1": "21a9307627c1b2ae4a29613107b5758cf3bab60f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Extrabold.otf",
+      "sha1": "514261339500af08b9a8171bd765eb91a57baa1f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Light It.otf",
+      "sha1": "3a0dba7ee8008c0e94266ff3dc18cb19310d2d64"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Light Italic.otf",
+      "sha1": "274aa734598ac9106cda304ffe21e4a279d4f805"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Light.otf",
+      "sha1": "b46b6e2301ff426398a84cca53b85ac422f87610"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Reg It.otf",
+      "sha1": "9fc183b4dd63f750328394592ae485bcebc2fe8e"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Reg.otf",
+      "sha1": "50f2c0faa2f4fd82334120552e2ff92f52e0c9c8"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Regular Italic.otf",
+      "sha1": "bd8a85fe34cd5ab67123f1b2b933648eeafafd9f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Regular.otf",
+      "sha1": "e41a5e523f03be8b9b9002422a52e4e8741ca462"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Black It.otf",
+      "sha1": "8f2c65973dfae3f0f3529a3323322386033cb84d"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Black.otf",
+      "sha1": "ead4ec866f76866ce47f8b66a61024b63006fb0e"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Bold It.otf",
+      "sha1": "dd601a5ce74314e212c094be2267d40c0cc528fb"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Bold.otf",
+      "sha1": "fc99970032f79b8dacdd3f57d35f0379a25342b1"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Black It.otf",
+      "sha1": "cd5c81b7cf51b0452d8b7b88c53c8c37418a641d"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Black.otf",
+      "sha1": "b1fbd42afa60e2551630efc8acadec68f30b4097"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Bold It.otf",
+      "sha1": "10e1ddd3f749cb2047c9910eba0f58374bc6574a"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Bold.otf",
+      "sha1": "6964ecb891a564eaf1ae4d71d56ffe9b95ac3435"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Light It.otf",
+      "sha1": "7f6d834a1fbaa9061dd0f4b65146cee815629e4b"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Light.otf",
+      "sha1": "0289af1442a295aee0f9c6322c2e0adbb7a7c8eb"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Reg It.otf",
+      "sha1": "4b092dfec4a8eff0915b6d99c99a9f836ad7059d"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Cond Reg.otf",
+      "sha1": "a3fcdacfe88c0a0215efae36774414deff4f3450"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Light It.otf",
+      "sha1": "c960450f820742245519254e5908deb26a77a5af"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Light.otf",
+      "sha1": "7da61b5f1c60fad360973df8c4eb7de703baf56f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Reg It.otf",
+      "sha1": "c0261702aacf26e1f0587cefd56765974982a028"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova ScOsf Reg.otf",
+      "sha1": "40778b9ad81fb9267b660943cfc53ab75e74010f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Semibold Italic.otf",
+      "sha1": "038ce45786a9b9ba9d5d2897c95654a6415f5fe4"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Proxima Nova Semibold.otf",
+      "sha1": "1fbed071180d360f01e78672affeea6a0a256fbc"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNova-ExtrabldIt.otf",
+      "sha1": "ba369b2fb8671df545eb3f7b04414bb232370510"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNova-Thin.otf",
+      "sha1": "ccdfcae053021338d0c9aaf1314d6f38be870bb3"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNova-ThinIt.otf",
+      "sha1": "2f270f1643b0fdb0093ac3d514265d6aadca57b6"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-Black.otf",
+      "sha1": "af8ba47215adb8b6c64a5695977e3e1208022669"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-BlackIt.otf",
+      "sha1": "94236efeb40e0a69026b2b546b559dc6fece8d1f"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-Bold.otf",
+      "sha1": "2f217de3e3b85fe30a0dd6c37b193338bf658819"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-BoldIt.otf",
+      "sha1": "59953d10ce6bc020db82126c689c1abffee596b3"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-Extrabld.otf",
+      "sha1": "07c165d5ef63ee211af1fcb6786ddaf988fe5caa"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-ExtrabldIt.otf",
+      "sha1": "f4383cfc6d29d1495e2234b87de7d0adc3e76065"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-Thin.otf",
+      "sha1": "8b3bdea150e4c28231a7d5611a703165afd875ed"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaCond-ThinIt.otf",
+      "sha1": "3b018a72fd394da8579fd5977b5d31f31e4ff910"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Black.otf",
+      "sha1": "c58d83d598c2fd02f28342e077cc6f9b96f6a068"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-BlackIt.otf",
+      "sha1": "2f99d48be542a630369bf8589c8155381b7af430"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Bold.otf",
+      "sha1": "565e6c6ff04291743b8edd300c217629da9ecc31"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-BoldIt.otf",
+      "sha1": "84fb74fd4deaf5c648a8a562dc449fd6d9a1a360"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Extrabld.otf",
+      "sha1": "8e81adb2cdac84ea734c8aabc0785ccd775ff4a2"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-ExtrabldIt.otf",
+      "sha1": "c32fb0f1680a0fbc70dc26f38584e00780ef525b"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Light.otf",
+      "sha1": "f739bbf64aeae5cd726b5b26a8cdeb06542d453c"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-LightIt.otf",
+      "sha1": "467652fd371d6214dee61ea1b4f42226bcb0ee7c"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Regular.otf",
+      "sha1": "2882171e181cb21ed826e2aaaa170ee18746b06a"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-RegularIt.otf",
+      "sha1": "4e479182587edb98b6e090e7db0a99acc33c4c44"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Semibold.otf",
+      "sha1": "ef47cd7d1871185c52f90a2403f8ccb7bdcda718"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-SemiboldIt.otf",
+      "sha1": "ea1f6058db33f37ab72857815b69a6b05554c536"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-Thin.otf",
+      "sha1": "30ee885593c13bdb104d0b193ec6e0e4ae811077"
+    },
+    {
+      "path": "android/app/src/main/assets/font/ProximaNovaExCn-ThinIt.otf",
+      "sha1": "cbfc6737b6e08023c192b29f3b1849ff7d84f8c2"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Quicksand-Bold.ttf",
+      "sha1": "8727a6ae26c6646a7f25bfe6560e19c9265ea87c"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Quicksand-Light.ttf",
+      "sha1": "739d87992cf1cd96cff0c9c32e40927385a38146"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Quicksand-Medium.ttf",
+      "sha1": "48d202c7a215914264064dc27f6a8cd77ebe3036"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Quicksand-Regular.ttf",
+      "sha1": "6eebfcb02f142c6e2bf58f7fcb31f10ec914a0ed"
+    },
+    {
+      "path": "android/app/src/main/assets/font/Quicksand-SemiBold.ttf",
+      "sha1": "43fdbf795bb0b7cc5b0d3dbcbdef0cdec0f29ca9"
+    }
+  ]
+}
